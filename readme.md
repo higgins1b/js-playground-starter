@@ -1,4 +1,4 @@
-# JS-Playground
+# js-playground-starter
 
 This project is made to quickly set up a JavaScript environment to play around with some brand new library or framework. There is an easy `build` script to generate production version of your app as well.
 
@@ -7,8 +7,8 @@ This project comes from the awesome [PAWEL GRZYBEK](https://pawelgrzybek.com/). 
 ## How?
 
 ```
-git clone git@github.com:higgins1b/JS-Playground.git
-cd JS-Playground
+git clone git@github.com:higgins1b/js-playground-starter.git my-playground
+cd my-playground
 ```
 then
 

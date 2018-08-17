@@ -1,5 +1,5 @@
 {
-  "name": "js-playground",
+  "name": "js-playground-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pawelgrzybek/JS-Playground.git"
+    "url": "git+https://github.com/higgins1b/js-playground-starter.git"
   },
   "keywords": [],
   "author": "Pawel Grzybek <grzybecki@gmail.com> (https://pawelgrzybek.com/)",
